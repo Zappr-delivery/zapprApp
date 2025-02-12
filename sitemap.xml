@@ -3,11 +3,13 @@
   <url>
     <loc>https://www.zappr.delivery/home</loc>
     <lastmod>2025-02-11</lastmod>
+     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.zappr.delivery/login</loc>
     <lastmod>2025-02-11</lastmod>
+     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
 </urlset>
